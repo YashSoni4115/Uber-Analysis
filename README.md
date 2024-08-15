@@ -1,1 +1,2 @@
 # Uber-Analysis
+In this project I applied my knowledge of R along with learning a new library of R that I had not previously learned about called 'DT' (Datatables in JS). In this project I aimed to study the number of trips made in a day, month and so on. Using this info I can determine what hours have the most passengers, the average number of passengers and other useful information for the company. This project polished my knowledge in R and helped me further understand how to manipulate date to understand it better. 
